@@ -1,0 +1,24 @@
+square:
+  width: 50
+  height: 50
+  align: center
+  valign: middle
+  #radius: 25
+  font_size: 30
+top:
+  extends: square
+  x: 68
+  y: 10
+  fill_color: '#fff'
+right:
+  extends: square
+  x: 127
+  y: 68
+bottom:
+  extends: square
+  x: 68
+  y: 127
+left:
+  extends: square
+  x: 10
+  y: 68

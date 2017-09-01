@@ -1,0 +1,5 @@
+colors:
+
+Purple: #9b59b6
+Blue: #3498db
+Orange: #f39c12
