@@ -42,7 +42,7 @@ The game ends when a player runs out of tiles to place or there are no more lega
 
 # Scoring
 
-Points are only totaled at the end of the game. Points are gained when any two matching color tokens are directly adjacent to a token of the same color. Diagonal tokens do not count as points.
+Points are totaled at the end of the game. Points are gained when any two matching color tokens are directly adjacent to a token of the same color. Diagonal tokens do not count as points.
 
 `Idea` I'm thinking we might want to add bonuses for runs of tiles. ATM i'm thinking:
 - +1 for 4 tiles
@@ -51,7 +51,7 @@ Points are only totaled at the end of the game. Points are gained when any two m
 - +4 for 7 tiles
 - +5 for 8 tiles etc
 
-This will discourage focusing on trying to make lots of groups of 2 tiles.
+This will hopefully discourage focusing on trying to make lots of groups of 2 tiles and encourage more cross player interactivity.
 
 # Beta Notes
 
